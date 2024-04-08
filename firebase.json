@@ -1,0 +1,24 @@
+{
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log"
+      ]
+    }
+  ],
+  "emulators": {
+    "functions": {
+      "port": 9090
+    },
+    "ui": {
+      "enabled": true,
+      "port": 9090
+    },
+    "singleProjectMode": true
+  }
+}

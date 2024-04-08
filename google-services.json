@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "542362966641",
+    "project_id": "tidygo-8feb0",
+    "storage_bucket": "tidygo-8feb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542362966641:android:3c1d0151b1220695ffd9d0",
+        "android_client_info": {
+          "package_name": "com.tidygo.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542362966641-2v2g0jh3vc29dnonuqob80vn868rrf4f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tidygo.app",
+            "certificate_hash": "3f2f1a5d79912ce9c4b1aa5e7e6e3b33b3c74d0d"
+          }
+        },
+        {
+          "client_id": "542362966641-abp4os5jrkfusd255v5t52mtf3j1a8vk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tidygo.app",
+            "certificate_hash": "7fdd4d75ab668806c9f2dd4cac4d01e3a587b9e7"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACAlbm1gdSnXJbm9wn6ypd8noQVZICbRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542362966641-onnvctt6jrq4e0ae3l87618msv59ns2q.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "542362966641-v6jccqfna2raa9khu39bno8sbn59aos9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tidygo.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

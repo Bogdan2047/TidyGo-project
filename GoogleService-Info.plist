@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>542362966641-v6jccqfna2raa9khu39bno8sbn59aos9.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.542362966641-v6jccqfna2raa9khu39bno8sbn59aos9</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>542362966641-2v2g0jh3vc29dnonuqob80vn868rrf4f.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDIKXTBnlAu3U7PEgKSATHgR9TmrUpj8yA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>542362966641</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tidygo.app</string>
+	<key>PROJECT_ID</key>
+	<string>tidygo-8feb0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tidygo-8feb0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:542362966641:ios:ac90bee1719e6f74ffd9d0</string>
+</dict>
+</plist>
